@@ -1,0 +1,3 @@
+language: objective-c
+
+script: xcodebuild -workspace TestwarezApp.xcworkspace -scheme TestwarezAppUITests -sdk iphonesimulator test
